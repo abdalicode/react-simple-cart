@@ -7,10 +7,10 @@ const SideBar = () => {
          style={{ position: "sticky", top: "20px", width: "100%" }}
       >
          <div className="item">
-            <div className="header">Sort by what</div>
+            <div className="header">Sort by</div>
             <div className="menu">
-               <a href="/" className="item">
-                  hell
+               <a href="#" className="item">
+                  Price
                </a>
             </div>
          </div>
