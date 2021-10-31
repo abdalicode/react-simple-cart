@@ -1,3 +1,4 @@
+![alt text](https://github.com/abdalicodes/react-simple-cart/blob/main/shoppingcart%20main.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
